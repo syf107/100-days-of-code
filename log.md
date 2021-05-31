@@ -1,4 +1,4 @@
-Syarief Arifin #100DaysOfCode Log - Round 01
+# Syarief Arifin #100DaysOfCode Log - Round 01
 
 Day 01 of #100DaysOfCode
 ### Day 01 of #100DaysOfCode
