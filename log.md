@@ -8,7 +8,6 @@
 **Thoughts:** I really struggled with Machine Learning. The wide broad of topics and the amount things to learn is so overwhelming. I feel like this is the end for me. As I have accident in training a big model following a tutorial. My old laptop is just not let me. I took 5 hours just to fix and wait. The environment just won't let me. So I decided to go back to web development.
 
 **Link to work:** [FreeCodeCamp Responsive Web Design Page](https://www.freecodecamp.org/learn/responsive-web-design/)
-<br>
 
 ### Day 02 of #100DaysOfCode
 #### June 02, 2021 
@@ -17,5 +16,4 @@
 
 **Thoughts:** I think I know why I am failed in learning Machine Learning and my prior bootcamp. There're aspects more than my devices. It is something that Leon discussed in #100Devs Class. It is about how I am bad in managing time, frustration, and taking care of myself. Moreover, I have no good learning method. I will definitely approach this better in doing Web Development right now. I am glad deciding join this program.
 
-**Link to work:** [FreeCodeCamp Responsive Web Design Page](https://www.freecodecamp.org/learn/responsive-web-design/), [Free Software Engineering Bootcamp] https://leonnoel.com/100devs/
-<br>
+**Link to work:** [FreeCodeCamp Responsive Web Design Page](https://www.freecodecamp.org/learn/responsive-web-design/), [Free Software Engineering Bootcamp](https://leonnoel.com/100devs/)
