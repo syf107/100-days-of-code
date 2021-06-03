@@ -17,3 +17,12 @@
 **Thoughts:** I think I know why I am failed in learning Machine Learning and my prior bootcamp. There're aspects more than my devices. It is something that Leon discussed in #100Devs Class. It is about how I am bad in managing time, frustration, and taking care of myself. Moreover, I have no good learning method. I will definitely approach this better in doing Web Development right now. I am glad deciding join this program.
 
 **Link to work:** [FreeCodeCamp Responsive Web Design Page](https://www.freecodecamp.org/learn/responsive-web-design/), [Free Software Engineering Bootcamp](https://leonnoel.com/100devs/)
+
+### Day 03 of #100DaysOfCode
+#### June 03, 2021 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 3 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>- I did all the Basic CSS in Responsive Web Design freeCodeCamp, starting the Applied Visual Design.<br>- I have been there, doing the course in CSS, good. Then, trying it do the projects, it is right but it is all wrong.<br><br>Will approach it better this time.</p>&mdash; Syarief Arifin (@anaketigabelas) <a href="https://twitter.com/anaketigabelas/status/1400488229342646276?ref_src=twsrc%5Etfw">June 3, 2021</a></blockquote>
+
+**Thoughts:** This type of learning indeed gives the excitement because you can see a slight success when doing each chapter. But coding is a skill that will grow when you do the projects and it includes the CSS. It's kinda hard to approach CSS than HTML. You often don't know how to put something appear into something. By the way, the material is good. The penguin! I am always fascinated by how people actually draws something with CSS. It's skill that I want to get, dunno why.
+
+**Link to work:** [FreeCodeCamp Responsive Web Design Page](https://www.freecodecamp.org/learn/responsive-web-design/)
