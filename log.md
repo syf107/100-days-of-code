@@ -26,3 +26,12 @@
 **Thoughts:** This type of learning indeed gives the excitement because you can see a slight success when doing each chapter. But coding is a skill that will grow when you do the projects and it includes the CSS. It's kinda hard to approach CSS than HTML. You often don't know how to put something appear into something. By the way, the material is good. The penguin! I am always fascinated by how people actually draws something with CSS. It's skill that I want to get, dunno why.
 
 **Link to work:** [FreeCodeCamp Responsive Web Design Page](https://www.freecodecamp.org/learn/responsive-web-design/)
+
+### Day 04 of #100DaysOfCode
+#### June 04, 2021 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 4 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>- Watched the Ali Abdaal&#39;s video of Active Recall and Spaced-Repetition, and started a journey with Learning How to Learn by Barbara Oakley...<br>... as the Homework of Free Software Engineering Bootcamp of Class 01 <a href="https://twitter.com/hashtag/100Devs?src=hash&amp;ref_src=twsrc%5Etfw">#100Devs</a></p>&mdash; Syarief Arifin (@anaketigabelas) <a href="https://twitter.com/anaketigabelas/status/1400858122709733377?ref_src=twsrc%5Etfw">June 4, 2021</a></blockquote>
+
+**Thoughts:** I don't really code today. I take this as a good break and instead doing the homework that's still part of #100Devs Free Software Engineering Bootcamp. So I don't really break. This information is new for me. I've got my mind blown by it. Though it is hard to digest, as the facts that rereading, highlighting, and summarizing and making notes have been with me all the time. I will definitely trying this Active Recall and Space Repetition. To dive deeper, I started also Learning How to Learn by Barbara Oakley.
+
+**Link to work:** [Ali Abdaal's video on Active Recall](https://youtu.be/ukLnPbIffxE), [Ali Abdaal's video on Space Repetition](https://youtu.be/Z-zNHHpXoMM), [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
