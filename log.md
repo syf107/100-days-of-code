@@ -35,3 +35,15 @@
 **Thoughts:** I don't really code today. I take this as a good break and instead doing the homework that's still part of #100Devs Free Software Engineering Bootcamp. So I don't really break. This information is new for me. I've got my mind blown by it. Though it is hard to digest, as the facts that rereading, highlighting, and summarizing and making notes have been with me all the time. I will definitely trying this Active Recall and Space Repetition. To dive deeper, I started also Learning How to Learn by Barbara Oakley.
 
 **Link to work:** [Ali Abdaal's video on Active Recall](https://youtu.be/ukLnPbIffxE), [Ali Abdaal's video on Space Repetition](https://youtu.be/Z-zNHHpXoMM), [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+
+### Day 05 of #100DaysOfCode
+#### June 05, 2021 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 5 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a><br>- Got the 1/2 of homework Class-01, Ali Abdaal&#39;s videos and Week 1 Learning How to Learn.<br>- Decided to do the Class-02 of <a href="https://twitter.com/hashtag/100Devs?src=hash&amp;ref_src=twsrc%5Etfw">#100Devs</a>. Got the first hour. It was the review of class 1 and then to HTML. I love how <a href="https://twitter.com/leonnoel?ref_src=twsrc%5Etfw">@leonnoel</a> explains the importance of semantic.</p>&mdash; Syarief Arifin (@anaketigabelas) <a href="https://twitter.com/anaketigabelas/status/1401207693302403076?ref_src=twsrc%5Etfw">June 5, 2021</a></blockquote> 
+
+**Thoughts:** Doing the Learning How to Learn course by Barbara Oakley from Coursera. It is an amazing experience to know how our brain works. I agree with how Leon Noel said that it is criminal to not teach this way and method in our school. I mean, I have done twelve years until the high school, three years in doing Diploma III, and this method is out of radar. Then, I did the first hour of the Class-02 of Free Software Engineering Bootcamp. Leon's explanation is great. I love he really emphasizes the importance of semantic meaning in writing HTML. It is something new for me. Something I didn't get when I approached Web Development's course last time. 
+
+**Link to work:** [Ali Abdaal's video on Active Recall](https://youtu.be/ukLnPbIffxE), [Ali Abdaal's video on Space Repetition](https://youtu.be/Z-zNHHpXoMM), [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+
+
+
