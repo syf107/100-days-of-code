@@ -63,6 +63,5 @@
 
 **Thoughts:** Shay Howe's HTML & CSS Learning is a good source of learning HTML and CSS. I am enjoying this so much. I think it has a better approach to combine the HTML & CSS from the very beginning. The author patiently divide each material so the beginner will feel comfort when learning the material. I want to finish this first and then do another exercise of Class-02.
 
-**Link to work:** [#100Devs Youtube Channel](https://www.youtube.com/playlist?list=PLBf-QcbaigsKwq3k2YEBQS17xUwfOA3O3)[Learn HTML & CSS](Learn to Code HTML & CSS
-)
+**Link to work:** [#100Devs Youtube Channel](https://www.youtube.com/playlist?list=PLBf-QcbaigsKwq3k2YEBQS17xUwfOA3O3)[Learn HTML & CSS](https://learn.shayhowe.com/html-css/)
 
