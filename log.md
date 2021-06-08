@@ -45,5 +45,11 @@
 
 **Link to work:** [Ali Abdaal's video on Active Recall](https://youtu.be/ukLnPbIffxE), [Ali Abdaal's video on Space Repetition](https://youtu.be/Z-zNHHpXoMM), [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
+### Day 06 of #100DaysOfCode
+#### June 06, 2021 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Gosh, I missed to write.<br>Day 6 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a><br>- Finished Class-02 of <a href="https://twitter.com/hashtag/100Devs?src=hash&amp;ref_src=twsrc%5Etfw">#100Devs</a> Free Software Engineering Bootcamp. Another homework. Yay!<br>- I am now really appreaciating the HTML more and more. Thank you for the lecture <a href="https://twitter.com/leonnoel?ref_src=twsrc%5Etfw">@leonnoel</a>.</p>&mdash; Syarief Arifin (@anaketigabelas) <a href="https://twitter.com/anaketigabelas/status/1401585795757068290?ref_src=twsrc%5Etfw">June 6, 2021</a></blockquote>
 
+**Thoughts:** Doing the Learning How to Learn course by Barbara Oakley from Coursera. It is an amazing experience to know how our brain works. I agree with how Leon Noel said that it is criminal to not teach this way and method in our school. I mean, I have done twelve years until the high school, three years in doing Diploma III, and this method is out of radar. Then, I did the first hour of the Class-02 of Free Software Engineering Bootcamp. Leon's explanation is great. I love he really emphasizes the importance of semantic meaning in writing HTML. It is something new for me. Something I didn't get when I approached Web Development's course last time. 
+
+**Link to work:** [#100Devs Youtube Channel](https://www.youtube.com/playlist?list=PLBf-QcbaigsKwq3k2YEBQS17xUwfOA3O3)
