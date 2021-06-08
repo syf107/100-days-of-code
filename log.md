@@ -50,6 +50,19 @@
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Gosh, I missed to write.<br>Day 6 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a><br>- Finished Class-02 of <a href="https://twitter.com/hashtag/100Devs?src=hash&amp;ref_src=twsrc%5Etfw">#100Devs</a> Free Software Engineering Bootcamp. Another homework. Yay!<br>- I am now really appreaciating the HTML more and more. Thank you for the lecture <a href="https://twitter.com/leonnoel?ref_src=twsrc%5Etfw">@leonnoel</a>.</p>&mdash; Syarief Arifin (@anaketigabelas) <a href="https://twitter.com/anaketigabelas/status/1401585795757068290?ref_src=twsrc%5Etfw">June 6, 2021</a></blockquote>
 
-**Thoughts:** Doing the Learning How to Learn course by Barbara Oakley from Coursera. It is an amazing experience to know how our brain works. I agree with how Leon Noel said that it is criminal to not teach this way and method in our school. I mean, I have done twelve years until the high school, three years in doing Diploma III, and this method is out of radar. Then, I did the first hour of the Class-02 of Free Software Engineering Bootcamp. Leon's explanation is great. I love he really emphasizes the importance of semantic meaning in writing HTML. It is something new for me. Something I didn't get when I approached Web Development's course last time. 
+**Thoughts:** I finished the Class-02. I don't know whether I am going to catch up this program or not. My pace seemed so slow but it doesn't matter. I will keep this work until the very end. The lecture about HTML opens my eyes that we must put the element and its tags based on its HTML Semantic, not the appearance. HTML is about the semantic meaning and the structure of the content. Period. We even trained how to put html tags accordingly, the semantic of it. It's great. And, I got the exercise to make the HTML based on BBC Web-Page. I don't confident so I will try the HTML & CSS source Learning.
 
 **Link to work:** [#100Devs Youtube Channel](https://www.youtube.com/playlist?list=PLBf-QcbaigsKwq3k2YEBQS17xUwfOA3O3)
+
+### Day 07 & 08 of #100DaysOfCode
+#### June 07-08, 2021 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 7 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a><br>- I learned HTML and CSS from <a href="https://t.co/xZ7XD5NOW2">https://t.co/xZ7XD5NOW2</a><br><br>I hate bad internet connection, really.</p>&mdash; Syarief Arifin (@anaketigabelas) <a href="https://twitter.com/anaketigabelas/status/1401952906912288769?ref_src=twsrc%5Etfw">June 7, 2021</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 8 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a><br>- Turned out that Shay Howe&#39;s HTML &amp; CSS source of learning is so good. I did the Lesson 1 &amp; Lesson 2, the learning has both theoretical and hands-on approach. <br>- Can&#39;t do much as I lack of sleep. I need to take care myself better.</p>&mdash; Syarief Arifin (@anaketigabelas) <a href="https://twitter.com/anaketigabelas/status/1402264790727380993?ref_src=twsrc%5Etfw">June 8, 2021</a></blockquote>
+
+**Thoughts:** Shay Howe's HTML & CSS Learning is a good source of learning HTML and CSS. I am enjoying this so much. I think it has a better approach to combine the HTML & CSS from the very beginning. The author patiently divide each material so the beginner will feel comfort when learning the material. I want to finish this first and then do another exercise of Class-02.
+
+**Link to work:** [#100Devs Youtube Channel](https://www.youtube.com/playlist?list=PLBf-QcbaigsKwq3k2YEBQS17xUwfOA3O3)[Learn HTML & CSS](Learn to Code HTML & CSS
+)
+
